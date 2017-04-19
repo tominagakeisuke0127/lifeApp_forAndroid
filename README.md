@@ -1,0 +1,2 @@
+# lifeApp_forAndroid
+日常で便利と思う機能を盛り込んだAndroid-Application(ブラウザ版も作成予定)
